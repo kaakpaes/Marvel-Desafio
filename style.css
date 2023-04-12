@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #1e1e1e;
+  align-items: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.menuList {
+  width: 120%;
+  height: 6rem;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  align-items: center;
+}
+
+main {
+  height: 80%;
+}
+
+.background {
+  background-image: url("https://i.pinimg.com/originals/3a/27/81/3a2781712052a7fd86f29225d468b00d.jpg");
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+img {
+  width: 28vw;
+}
+
+figcaption {
+  font-family: Inter;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 1.5rem;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2rem;
+}
+
+div {
+  width: 100%;
+  height: 10vw;
+}
+
+footer {
+  width: 100%;
+  height: 9vw;
+  background-color: #1e1e1e;
+  text-align: center;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+.privacidade {
+  margin: auto;
+  padding-top: 0.625rem;
+  width: 22rem;
+  text-decoration-line: underline;
+}
+
+.disney {
+  margin-top: 0.625rem;
+  display: inline-block;
+}
+
+.desde {
+  margin-top: 1rem;
+}
+
+.Criadores {
+  margin-top: 1rem;
+}
