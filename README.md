@@ -49,7 +49,7 @@ No caso do (center), ela centraliza a imagem.
 
 https://user-images.githubusercontent.com/113450612/231354978-ff1563f4-b391-4c22-b9e2-606fd375bef6.mp4
 
-<h2 align="center"> Espero que tenham gostado, thankss! xoxo 👋 </h2>
+<h2 align="center"> Espero que tenham gostado, thankss! xoxo👋 </h2>
 
 <div align="center">
 
